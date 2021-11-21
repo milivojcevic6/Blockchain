@@ -1,0 +1,8 @@
+
+
+{
+  "trustedAddress" : "172.17.0.2",
+  "trustedPort" : 5000,
+  "listeningPort" : 5000,
+  "maxConnection" : 3
+}
